@@ -1,0 +1,13 @@
+global_palette.h
+global_palette.c
+arrow.h
+arrow.c
+clear_new.h
+clear_new.c
+edit.h
+edit.c
+folder.h
+folder.c
+save.h
+save.c
+sprites.h
